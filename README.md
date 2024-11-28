@@ -8,10 +8,10 @@ Read readme.txt file present inside for further query.
 
 # Here are some snapshots of the software
 ### login page :
-![login page image](login_page.png)
+![login page image](Images/login_page.png)
 
 ### home page: 
-![main page image](main_page.png)
+![main page image](Images/main_page.png)
 
 ### help box: 
-![help box image](help_page.png)
+![help box image](Images/help_page.png)
